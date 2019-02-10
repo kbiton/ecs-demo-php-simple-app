@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>@SDP Awesome Crowd!</h1>
+                <h1>@Floor28 Awesome Crowd!</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS Using Fargate Launch Type.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
